@@ -20,3 +20,7 @@ numpy 1.24.3
 pytorch 2.1.1
 matplotlib 3.8.2
 ```
+
+### Usage
+
+Usage information is provided within the `neuralnetwork.ipynb` file.
