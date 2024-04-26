@@ -1,0 +1,11 @@
+name: bsl
+channels:
+  - pytorch
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy=1.24.3
+  - pandas=2.1.1
+  - pytorch=2.1.1
+  - matplotlib=3.8.2
